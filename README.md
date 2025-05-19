@@ -17,8 +17,7 @@ This project is a cross-platform mobile application for scanning prescriptions, 
 
 ## Getting Started
 - See each folder's README for specific setup instructions.
-- Ensure Python, Flutter, and PostgreSQL are installed on your system.
-
+- Ensure Python, Flutter, and PostgreSQL are installed on your system. 
 ---
 
 This workspace is under active development. Contributions and feedback are welcome!
