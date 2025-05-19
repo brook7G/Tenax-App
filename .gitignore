@@ -1,0 +1,149 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+debug.log
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# pipenv
+Pipfile.lock
+
+# mypy
+.mypy_cache/
+.dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# VS Code
+.vscode/
+
+# Flutter/Dart
+**/build/
+**/.dart_tool/
+**/.packages
+**/pubspec.lock
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.idea/
+**/.DS_Store
+**/windows/runner/Debug/
+**/windows/runner/Release/
+**/windows/runner/Profile/
+
+# macOS
+**/.DS_Store
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Flutter.podspec
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/app.flx
+**/ios/Flutter/app.zip
+**/ios/Flutter/flutter_assets/
+**/ios/Flutter/ephemeral/
+**/ios/Flutter/Flutter.podspec
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/app.flx
+**/ios/Flutter/app.zip
+**/ios/Flutter/flutter_assets/
+**/ios/Flutter/ephemeral/
+
+# Android
+**/android/.gradle/
+**/android/app/build/
+**/android/local.properties
+**/android/.idea/
+**/android/.DS_Store
+
+# Web
+**/web/.dart_tool/
+**/web/build/
+
+# Node
+node_modules/
+
+# Logs
+*.log
+
+# Others
+*.swp
+*.swo
+*.tmp
+*.bak
+*.orig
+*.old
+
+# Firebase
+**/google-services.json
+**/GoogleService-Info.plist
+
+# Ignore generated and sensitive files
+pubspec.lock
+
+# Backend sensitive files
+backend/__pycache__/
+backend/*.pyc
+backend/.env
+backend/.env.*
+backend/*.db
+backend/*.sqlite3
+backend/*.log
+
+# Flutter sensitive files
+frontend/.env
+frontend/.env.*
+frontend/google-services.json
+frontend/GoogleService-Info.plist
+
+# IDE and system files
+.DS_Store
+Thumbs.db
